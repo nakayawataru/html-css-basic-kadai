@@ -1,4 +1,4 @@
-@media screen and(max-width: 768px){
+@media screen and (max-width: 768px) {
   h2{
     font-size: 30px;
   }
@@ -6,7 +6,7 @@
     font-size:25px;
   }
   #parent{
-    flex-direction: column !important;
+    flex-direction: column;
   }
 }
 
